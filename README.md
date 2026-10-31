@@ -36,7 +36,7 @@ https://firms.modaps.eosdis.nasa.gov/download/), region lat −15° to 5°, lon 
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure 
 ```text
 ├── datasets/
 │   ├── fire_graph_metrics.csv             # NASA MODIS fire hotspots and Chronnet topological metrics (1,600 grid cells, 2003–2025)
