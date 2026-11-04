@@ -3,6 +3,8 @@
   numpy
   seaborn
   matplotlib
+  tigramite
+  dcor
   scikit-learn
   statsmodels
   optuna
