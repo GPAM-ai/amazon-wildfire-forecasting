@@ -1,3 +1,4 @@
 results/
 __pycache__/
 raw_data/
+.vscode/
